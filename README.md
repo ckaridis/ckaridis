@@ -1,10 +1,17 @@
 ### Hi there 👋
+
+- 🔭 I’m currently working on ...
+
+![](https://img.shields.io/badge/Java-1.8-informational?style=flat&logo=java&logoColor=white&color=5382a1)
+![](https://img.shields.io/badge/Angular-8-informational?style=flat&logo=angular&logoColor=white&color=a6120d)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ckaridis&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **ckaridis/ckaridis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
