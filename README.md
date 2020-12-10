@@ -3,7 +3,18 @@
 
 I'm Chris. Web Developer for a living, Photographer for passion. 
 
-### 🔭 I’m currently working on
+### 🤍 Social and Blogging
+
+<a href="https://www.tricksforgreeks.com" target="_blank">![](https://img.shields.io/badge/Blogging-My_Blog-informational?style=for-the-badge&logo=&logoColor=white&color=007acc)
+</a>
+<a href="https://www.linkedin.com/in/chriskaridis/" target="_blank">![](https://img.shields.io/badge/Social-LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=0077B5)
+</a>
+<a href="https://www.instagram.com/chriskaridis/" target="_blank">![](https://img.shields.io/badge/Social-Instagram-informational?style=for-the-badge&logo=instagram&logoColor=white&color=E4405F)
+</a>
+<a href="https://unsplash.com/@chriskaridis/" target="_blank">![](https://img.shields.io/badge/Photography-unsplash-informational?style=for-the-badge&logo=unsplash&logoColor=white&color=000000)
+</a>
+
+### 💡 Technologies and Tools
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=5382a1) 
 ![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=de2938)
 ![](https://img.shields.io/badge/Code-AngularJS-informational?style=flat&logo=angularjs&logoColor=white&color=a6120d) 
@@ -13,9 +24,16 @@ I'm Chris. Web Developer for a living, Photographer for passion.
 ![](https://img.shields.io/badge/Code-SpringBoot-informational?style=flat&logo=spring&logoColor=white&color=98fb68)
 ![](https://img.shields.io/badge/DB-Oracle-informational?style=flat&logo=oracle&logoColor=white&color=F80000)
 ![](https://img.shields.io/badge/DB-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=336791)
+![](https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=4479A1)
+![](https://img.shields.io/badge/DB*-ElasticSearch-informational?style=flat&logo=elasticsearch&logoColor=white&color=005571)
 ![](https://img.shields.io/badge/Server-Weblogic-informational?style=flat&logo=oracle&logoColor=white&color=F80000)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2496ed) 
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=1d84de)
+
+### 🎨 Design and Photography
+![](https://img.shields.io/badge/Editing-Adobe_Photoshop-informational?style=flat&logo=adobe-photoshop&logoColor=white&color=31A8FF)
+![](https://img.shields.io/badge/Editing-Adobe_Lightroom-informational?style=flat&logo=adobe-lightroom&logoColor=white&color=31A8FF)
+
 
 ### 😄 GitHub Statistics
 
