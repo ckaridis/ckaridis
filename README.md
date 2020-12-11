@@ -5,13 +5,13 @@ I'm Chris. Web Developer for a living, Photographer for passion.
 
 ### 🤍 Social and Blogging
 
-<a href="https://www.tricksforgreeks.com" target="_blank">![](https://img.shields.io/badge/Blogging-My_Blog-informational?style=for-the-badge&logo=&logoColor=white&color=007acc)
+<a href="https://www.tricksforgreeks.com" target="_blank">![](https://img.shields.io/badge/Blogging-My_Blog-informational?style=flat-square&logo=&logoColor=white&color=007acc)
 </a>
-<a href="https://www.linkedin.com/in/chriskaridis/" target="_blank">![](https://img.shields.io/badge/Social-LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=0077B5)
+<a href="https://www.linkedin.com/in/chriskaridis/" target="_blank">![](https://img.shields.io/badge/Social-LinkedIn-informational?style=flat-square&logo=linkedin&logoColor=white&color=0077B5)
 </a>
-<a href="https://www.instagram.com/chriskaridis/" target="_blank">![](https://img.shields.io/badge/Social-Instagram-informational?style=for-the-badge&logo=instagram&logoColor=white&color=E4405F)
+<a href="https://www.instagram.com/chriskaridis/" target="_blank">![](https://img.shields.io/badge/Social-Instagram-informational?style=flat-square&logo=instagram&logoColor=white&color=E4405F)
 </a>
-<a href="https://unsplash.com/@chriskaridis/" target="_blank">![](https://img.shields.io/badge/Photography-unsplash-informational?style=for-the-badge&logo=unsplash&logoColor=white&color=000000)
+<a href="https://unsplash.com/@chriskaridis/" target="_blank">![](https://img.shields.io/badge/Photography-unsplash-informational?style=flat-square&logo=unsplash&logoColor=white&color=000000)
 </a>
 
 ### 💡 Technologies and Tools
