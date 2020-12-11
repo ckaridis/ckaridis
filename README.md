@@ -31,8 +31,8 @@ I'm Chris. Web Developer for a living, Photographer for passion.
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=1d84de)
 
 ### 🎨 Design and Photography
-![](https://img.shields.io/badge/Editing-Adobe_Photoshop-informational?style=flat&logo=adobe-photoshop&logoColor=white&color=31A8FF)
-![](https://img.shields.io/badge/Editing-Adobe_Lightroom-informational?style=flat&logo=adobe-lightroom&logoColor=white&color=31A8FF)
+![](https://img.shields.io/badge/Design-Adobe_Photoshop-informational?style=flat&logo=adobe-photoshop&logoColor=white&color=31A8FF)
+![](https://img.shields.io/badge/Photography-Adobe_Lightroom-informational?style=flat&logo=adobe-lightroom&logoColor=white&color=31A8FF)
 
 
 ### 😄 GitHub Statistics
